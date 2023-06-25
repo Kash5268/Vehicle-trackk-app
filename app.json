@@ -5,6 +5,17 @@
       "bundler": "metro"
     },
     "name": "vehicleTrackApp",
-    "slug": "vehicleTrackApp"
+    "slug": "vehicleTrackApp",
+    "extra": {
+      "eas": {
+        "projectId": "2b586e16-eb8a-451c-9c2a-0bb542f244d0"
+      }
+    },
+    "android": {
+      "package": "com.kashimo.vehicleTrackApp",
+      "config": {
+        "googleMaps": { "ApiKey": "AIzaSyDTTZgecolingeBCTDJB5jB7Jop-OZHOyM" }
+      }
+    }
   }
 }

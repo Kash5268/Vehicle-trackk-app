@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "ru": {
+        "vehicle_name": "Грузовик",
+        "name": "Дмитрий",
+        "category": "Грузовой"
+      },
+      "en": {
+        "vehicle_name": "Truck",
+        "name": "Dmitrii",
+        "category": "Freight"
+      },
+      "number": "+77475136494",
+      "coordinates": {
+        "latitude": "51.141589",
+        "longitude": "71.427556"
+      },
+      "id": 1
+    },
+    {
+      "ru": {
+        "vehicle_name": "Автобус",
+        "name": "Мади",
+        "category": "Пассажирский"
+      },
+      "en": {
+        "vehicle_name": "Bus",
+        "name": "Madi",
+        "category": "Passenger"
+      },
+      "number": "+73847045383",
+      "coordinates": {
+        "latitude": "51.141845",
+        "longitude": "71.404131"
+      },
+      "id": 2
+    },
+    {
+      "ru": {
+        "vehicle_name": "Пожарная",
+        "name": "Бекзат",
+        "category": "Спецтранспорт"
+      },
+      "en": {
+        "vehicle_name": "FireTruck",
+        "name": "Bekzat",
+        "category": "Special"
+      },
+      "number": "+76563851095",
+      "coordinates": {
+        "latitude": "51.143734",
+        "longitude": "71.456697"
+      },
+      "id": 3
+    },
+    {
+      "ru": {
+        "vehicle_name": "Грузовик",
+        "name": "Гена",
+        "category": "Грузовой"
+      },
+      "en": {
+        "vehicle_name": "Truck",
+        "name": "Gena",
+        "category": "Freight"
+      },
+      "number": "+79879437014",
+      "coordinates": {
+        "latitude": "51.134192",
+        "longitude": "71.465986"
+      },
+      "id": 4
+    },
+    {
+      "ru": {
+        "vehicle_name": "Автобус",
+        "name": "Алиса",
+        "category": "Пассажирский"
+      },
+      "en": {
+        "vehicle_name": "Bus",
+        "name": "Alisa",
+        "category": "Passenger"
+      },
+      "number": "+76715667601",
+      "coordinates": {
+        "latitude": "51.119074",
+        "longitude": "71.433374"
+      },
+      "id": 5
+    },
+    {
+      "ru": {
+        "vehicle_name": "Пожарная",
+        "name": "Саша",
+        "category": "Спецтранспорт"
+      },
+      "en": {
+        "vehicle_name": "FireTruck",
+        "name": "Sasha",
+        "category": "Special"
+      },
+      "number": "+74213772346",
+      "coordinates": {
+        "latitude": "51.164308",
+        "longitude": "71.483102"
+      },
+      "id": 6
+    },
+    {
+      "ru": {
+        "vehicle_name": "Автобус",
+        "name": "Алмат",
+        "category": "Пассажирский"
+      },
+      "en": {
+        "vehicle_name": "Bus",
+        "name": "Almat",
+        "category": "Passenger"
+      },
+      "number": "+72429125718",
+      "coordinates": {
+        "latitude": "51.107826",
+        "longitude": "71.407010"
+      },
+      "id": 7
+    },
+    {
+      "ru": {
+        "vehicle_name": "Грузовик",
+        "name": "Алан",
+        "category": "Грузовой"
+      },
+      "en": {
+        "vehicle_name": "Truck",
+        "name": "Alan",
+        "category": "Freight"
+      },
+      "number": "+75417222010",
+      "coordinates": {
+        "latitude": "51.104716",
+        "longitude": "71.423312"
+      },
+      "id": 8
+    },
+    {
+      "ru": {
+        "vehicle_name": "Пожарная",
+        "name": "Абылай",
+        "category": "Спецтранспорт"
+      },
+      "en": {
+        "vehicle_name": "FireTruck",
+        "name": "Abylai",
+        "category": "Special"
+      },
+      "number": "+77195099505",
+      "coordinates": {
+        "latitude": "51.091662",
+        "longitude": "71.406279"
+      },
+      "id": 9
+    },
+    {
+      "ru": {
+        "vehicle_name": "Автобус",
+        "name": "Бека",
+        "category": "Пассажирский"
+      },
+      "en": {
+        "vehicle_name": "Bus",
+        "name": "Beka",
+        "category": "Passenger"
+      },
+      "number": "+77802771387",
+      "coordinates": {
+        "latitude": "51.091209",
+        "longitude": "71.401371"
+      },
+      "id": 10
+    }
+  ]
+}
