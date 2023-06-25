@@ -25,6 +25,22 @@ Go to your development build that you have installed with scanning QR and you wi
 Go to the active development server on your mobile
 
 ## Notes:
---It should be noted that it was made for android to run since I didn't have phones with IOS around to check on it. However, it should work fine.
---Do not run it on web as it will not show Google Map. If you do not make development build, android app will not access to Google Map API
---IOS should have its own Apple map by standard
+It should be noted that it was made for android to run since I didn't have phones with IOS around to check on it. However, it should work fine.
+
+Do not run it on web as it will not show Google Map. If you do not make development build, android app will not access to Google Map API
+
+IOS should have its own Apple map by standard
+
+If your app is still not working try to change: 
+```sh
+eas build --platform all
+```
+to:
+
+```sh
+eas build --platform android
+```
+
+Also, you can run the build for ios also. (Depending on the build it may cause issues since ios may try to fetch Google Map APi rather than standard as I didn't have an option to check it on IOS platforms)
+
+
