@@ -24,6 +24,10 @@ npm start
 Go to your development build that you have installed with scanning QR and you will notice that it shows an active development server (if not, just scan the QR after running the latest command)
 Go to the active development server on your mobile
 
+# You can also
+
+You can also visit https://expo.dev/%40kashimo/vehicleTrackApp?serviceType=classic&distribution=expo-go&releaseChannel=default to scan the published build with expo go app
+
 ## Notes:
 It should be noted that it was made for android to run since I didn't have phones with IOS around to check on it. However, it should work fine.
 
